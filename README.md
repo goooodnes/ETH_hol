@@ -1,5 +1,5 @@
 ## ETH
-This repository contains instructions for setting up the SSV_NODE environment.
+
 
 ### Clone the repository:
 ```
